@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doresh Kumawat (dk)</h1>
+<h1 align="center">Hi 👋, I'm dk </h1>
 <h3 align="center">AI & Computer Vision Developer | Deep Learning, Robotics & Automation Enthusiast | Building Intelligent Systems with Python, TensorFlow & MERN Stack</h3>
 
 <p align="center">
@@ -24,6 +24,10 @@ I love to explore AI models, optimize them for real-world use, and integrate the
 <a href="https://twitter.com/dkworks108" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dkworks108" height="30" width="40" />
 </a>
+  <a href="mailto:dkworks108@gmail.com" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" />
+</a>
+
 </p>
 
 ---
@@ -35,59 +39,59 @@ I love to explore AI models, optimize them for real-world use, and integrate the
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <!-- Robotics / Embedded -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
+</a><h1>/</h1>
 
 <!-- MERN Stack -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a><h1>/</h1>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a><h1>/</h1>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
+</a><h1>/</h1>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <!-- Styling -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <!-- DevOps / Systems -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
+</a><h1>/</h1>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
-
+<h1>/</h1>
 <!-- Automation -->
 <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" width="40" height="40"/>
@@ -97,25 +101,3 @@ I love to explore AI models, optimize them for real-world use, and integrate the
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dk&show_icons=true&theme=tokyonight" alt="dk stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dk&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dk&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-<img src="https://github.com/dk/dk/blob/output/github-contribution-grid-snake.svg" />
-</p>
