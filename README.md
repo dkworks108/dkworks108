@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dk </h1>
+<h1 align="center">Hi 👋, I'm doresh </h1>
 <h3 align="center">AI & Computer Vision Developer | Deep Learning, Robotics & Automation Enthusiast | Building Intelligent Systems with Python, TensorFlow & MERN Stack</h3>
 
 <p align="center">
