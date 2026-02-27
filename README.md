@@ -30,8 +30,7 @@ I follow an <b>implementation-first learning approach</b>, prioritizing real-tim
   - Running and modifying open-source systems  
   - Building small but complete prototypes  
 - 🎯 **Long-term goal:**  
-  Prepare for research-oriented environments in <b>robotics, humanoid systems, and physical AI</b>  
-- 📍 **Location:** Jaipur, Rajasthan, India  
+  Prepare for research-oriented environments in <b>robotics, humanoid systems, and physical AI</b>   
 - 📫 **Email:** <b>dkworks108@gmail.com</b>  
 - ⚡ **Fun fact:** <i>I intentionally break systems to understand their limits — then rebuild them with better structure.</i>
 
