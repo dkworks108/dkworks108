@@ -49,7 +49,7 @@ I follow an <b>implementation-first learning approach</b>, prioritizing real-tim
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
 <a href="https://twitter.com/dkworks108" target="blank">
