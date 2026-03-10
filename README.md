@@ -12,7 +12,7 @@ I follow an <b>implementation-first learning approach</b>, prioritizing real-tim
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 - 🔭 **Currently working on:** <b>Serphi</b> — an offline, emotion-aware conversational AI system  
 - 🧠 **Learning & exploring:**  
