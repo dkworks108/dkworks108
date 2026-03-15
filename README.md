@@ -38,7 +38,7 @@ I follow an <b>implementation-first learning approach</b>, prioritizing real-tim
 
 ## 🧪 Current Project Focus
 
-### 🧠 Serphi — Emotion-Aware Offline AI System
+###  Serphi — Emotion-Aware Offline AI System
 - Real-time facial emotion recognition (perception layer)  
 - Emotion-conditioned response logic  
 - Fully offline conversational pipeline (privacy-focused)  
