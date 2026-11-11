@@ -1,140 +1,260 @@
 <h1 align="center">Hi 👋, I'm Doresh Kumawat</h1>
 
 <h3 align="center">
-BCA Final-Year Student | Robotics, Computer Vision & Physical AI Systems
+Robotics & Software Developer | Autonomous Systems | Physical AI
 </h3>
 
 <p align="center">
-I am a BCA final-year student deeply interested in <b>robotics, computer vision, and physical AI systems</b>.  
-My primary focus is understanding how intelligent systems operate as <b>end-to-end pipelines</b> — from sensing and perception to decision-making, interaction, and execution.  
-I follow an <b>implementation-first learning approach</b>, prioritizing real-time systems, offline AI, and tight hardware–software integration over purely theoretical exploration.
+Building intelligent systems that connect robotics, software, and the physical world.
+</p>
+
+<p align="center">
+<a href="https://github.com/dkworks108">
+<img src="https://komarev.com/ghpvc/?username=dkworks108&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</a>
 </p>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** <b>Serphi</b> — an offline, emotion-aware conversational AI system  
-- 🧠 **Learning & exploring:**  
-  - Perception-to-interaction pipelines  
-  - Emotion-aware AI systems  
-  - On-device / offline inference  
-  - Robotics fundamentals and embedded control  
-- 🤖 **Core interests:**  
-  - Robotics hardware & actuation  
-  - Embedded systems & firmware exploration  
-  - Real-time computer vision  
-  - Sensor-based perception systems  
-- 🧪 **Learning style:**  
-  - Reading research papers  
-  - Running and modifying open-source systems  
-  - Building small but complete prototypes  
-- 🎯 **Long-term goal:**  
-  Prepare for research-oriented environments in <b>robotics, humanoid systems, and physical AI</b>   
-- 📫 **Email:** <b>dkworks108@gmail.com</b>  
-- ⚡ **Fun fact:** <i>I intentionally break systems to understand their limits — then rebuild them with better structure.</i>
+I'm a Robotics and Software Developer interested in building intelligent systems through the integration of robotics, embedded hardware, simulation, and software engineering.
+
+My work focuses on developing practical engineering solutions — from robot modelling and simulation to autonomous navigation, embedded control, and full-stack applications.
+
+- 🔭 Working on **ARES-X**, an ape-inspired autonomous reconfigurable robotics research project.
+- 🧩 Developing **Dubant**, a robotics engineering and simulation platform.
+- 🤖 Exploring autonomous mobile robots, robotic manipulators, and bio-inspired robotics.
+- ⚙️ Working with ROS 2, Gazebo, Webots, URDF, Nav2, and SLAM.
+- 🔌 Building embedded systems using ESP32, Arduino, sensors, and actuators.
+- 💻 4+ years of website development experience, with 30+ websites developed.
+- 🎓 BCA, University of Rajasthan (2023–2026).
+- 📍 Bengaluru, India.
+- 📫 Reach me at **dkworks108@gmail.com**.
 
 ---
 
-## 🧪 Current Project Focus
+## 🚀 Featured Projects
 
-###  Serphi — Emotion-Aware Offline AI System
-- Real-time facial emotion recognition (perception layer)  
-- Emotion-conditioned response logic  
-- Fully offline conversational pipeline (privacy-focused)  
-- Local memory handling and low-latency interaction  
-- Focus on <b>system integration</b> rather than model training  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> My contribution emphasizes how perception outputs are translated into meaningful, context-aware interactions.
+### 🦍 ARES-X
+
+**Ape-Inspired Autonomous Reconfigurable Exploration & Manipulation System**
+
+An experimental robotics research project inspired by ape and chimpanzee morphology.
+
+- Bio-inspired robot architecture
+- Quadrupedal locomotion research
+- Reconfigurable morphology
+- Embedded actuator integration
+- Simulation-to-hardware development
+
+**Stack:** ROS 2, Webots, URDF, Python, C++, ESP32, Arduino.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Dubant
+
+**Robotics Engineering & Simulation Platform**
+
+A platform concept focused on bringing robotics engineering and simulation workflows together.
+
+- Robot modelling workflows
+- Simulation integration
+- Engineering project organisation
+- Validation workflows
+- Robotics development tools
+
+**Stack:** TypeScript, JavaScript, React, Node.js, ROS 2, Webots.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚙 Four-Wheel Steering Robot
+
+A ROS 2-based mobile robot implementing four-wheel steering and four-wheel drive.
+
+- Multi-mode steering kinematics
+- URDF robot modelling
+- Gazebo simulation
+- LiDAR-based SLAM
+- Autonomous navigation workflows
+
+**Stack:** ROS 2, Python, C++, Gazebo, Nav2, SLAM Toolbox.
+
+[View Repository](https://github.com/dkworks108/4ws_robot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦾 6-DOF Robotic Arm
+
+A six-degree-of-freedom robotic manipulator with a two-finger parallel gripper.
+
+- Six revolute joints
+- Parallel gripper modelling
+- Robot description
+- Kinematic modelling
+- Motion-planning workflows
+
+**Stack:** ROS 2, URDF, MoveIt 2, Gazebo, RViz2.
+
+[View Repository](https://github.com/dkworks108/6dof_arm_urdf)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Differential-Drive Robot
+
+A mobile robotics project focused on robot control, simulation, mapping, and navigation.
+
+- Differential-drive architecture
+- ros2_control integration
+- LiDAR sensor integration
+- SLAM and localisation
+- Nav2 navigation
+
+**Stack:** ROS 2, Python, URDF, Gazebo, SLAM Toolbox, Nav2.
+
+[View Repository](https://github.com/dkworks108/diff-drive-bot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦾 3-DOF Robotic Arm
+
+A three-degree-of-freedom robotic manipulator with a parallel gripper.
+
+- Base yaw, shoulder, and elbow joints
+- URDF robot modelling
+- Joint control configuration
+- Robot visualisation
+- Simulation workflows
+
+**Stack:** ROS 2, Python, URDF, ros2_control, Gazebo, RViz2.
+
+[View Repository](https://github.com/dkworks108/my-3dof-arm)
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  Connect with Me
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
 
 <p align="left">
-<a href="https://twitter.com/dkworks108" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="mailto:dkworks108@gmail.com" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 </p>
 
----
-
-## 🛠 Languages, Tools & Technologies
+### Robotics, Simulation & Embedded Systems
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=ros,arduino,linux" />
+</p>
 
-<!-- Programming -->
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+**Also working with:** ROS 2 Humble, URDF, Xacro, Gazebo Fortress, Webots, RViz2, Nav2, SLAM Toolbox, ros2_control, ESP32, PCA9685, IMU sensors, and servo motors.
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
+### AI, Computer Vision & Data
 
-<!-- Computer Vision & ML -->
-<a href="https://opencv.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
+</p>
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</a>
+**Also working with:** Pandas, NumPy, Jupyter Notebook, and sensor-based perception.
 
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
+### Web & Software Development
 
-<!-- Robotics / Embedded -->
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,nextjs,html,css" />
+</p>
 
-<!-- Web (Supporting Skills) -->
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
+**Also working with:** WordPress, Shopify, REST APIs, and full-stack application development.
 
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
+### Development Tools
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Systems -->
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
 
-## 🤖 Research Interests (Evolving)
+## 🔬 Research Interests
 
-- Perception systems for robotics  
-- Emotion and context-aware AI  
-- Simulation-first robotics development  
-- Learning-based control (introductory level)  
-- System-level integration for physical AI  
+- Autonomous robotics and intelligent systems
+- Bio-inspired and humanoid robotics
+- Robotic locomotion and balance
+- Robot perception and sensor integration
+- Robotic manipulation and kinematics
+- Simulation-driven robotics development
+- Embedded systems and real-time control
+- Physical AI and hardware–software integration
+
+---
+
+## 💻 Additional Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| ESP32 Human Motion Tracker | IMU-based motion tracking with browser-based 3D visualisation | [View](https://github.com/dkworks108/esp32-mpu6500-human-motion-tracker-arduino) |
+| Arduino Distance Calculator | Ultrasonic distance measurement using Arduino | [View](https://github.com/dkworks108/Distance-Calculator) |
+| NIFTY 50 Dashboard | Financial market data collection and dashboard | [View](https://github.com/dkworks108/nifty50-live-dashboard) |
+| TMDB Movie Dataset | Movie data collection using the TMDB API | [View](https://github.com/dkworks108/tmdb-top-rated-movies-dataset) |
 
 ---
 
-## 📌 What You’ll Find on My GitHub
+## 🏆 Achievements
 
-- Computer vision experiments  
-- Robotics & embedded prototypes  
-- Offline AI systems  
-- End-to-end system implementations  
-- Learning-focused, well-documented projects  
+- 🥈 2nd Runner-Up — Zephire 2024 Code Craft.
+- 📜 Python Learning Certificate — IPS College, Jaipur.
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dkworks108&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkworks108&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dkworks108&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/dkworks108">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/doresh-kumawat/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dkworks108@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<b>"Building intelligent systems that connect software with the physical world."</b>
+</p>
+
+<p align="center">
+⭐ Explore my repositories and follow my engineering journey!
+</p>
